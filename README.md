@@ -1,6 +1,6 @@
 # Database Interacation in Web Applications
 
-This demonstrates the cconnection of MySQL database and Node.js to create a simple API
+This demonstrates the connection of MySQL database and Node.js to create a simple API
 
 ## Requirements
 - [Node.js](https://nodejs.org/) installed
@@ -15,7 +15,7 @@ This demonstrates the cconnection of MySQL database and Node.js to create a simp
    ```
 3. Install the necessary dependancies
    ```
-   npm install express mysql2 dotenv nodemon
+   npm install express mysql2 dotenv nodemon cors ejs
    ```
 4. Create a ``` server.js ``` and ```.env``` files
 5. Basic ```server.js``` setup
